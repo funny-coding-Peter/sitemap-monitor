@@ -1,7 +1,8 @@
 import { NextRequest, NextResponse } from 'next/server';
 import { parseString } from "xml2js";
 import { promisify } from "util";
-import { getSitesConfig, saveSnapshot, loadSnapshot } from "~/lib/config";
+import { getSitesConfig } from "~/lib/config";
+import { saveSnapshot, loadSnapshot } from "~/lib/cloudflare-kv";
 import type { SitemapSnapshot, SitemapDiff } from "~/lib/models";
 import { notifyMonitoringResults, notifyError } from "~/lib/feishu";
 
@@ -109,11 +110,11 @@ async function monitorSite(siteName: string, sitemapUrl: string): Promise<Sitema
       totalCount: urls.length
     };
     
-    saveSnapshot(todaySnapshot);
+    await saveSnapshot(todaySnapshot);
     console.log(`💾 ${siteName} 今日快照已保存: ${urls.length} 个URL`);
 
     // 3. 获取昨日快照进行对比
-    const yesterdaySnapshot = loadSnapshot(siteName, yesterday);
+    const yesterdaySnapshot = await loadSnapshot(siteName, yesterday);
     
     if (!yesterdaySnapshot) {
       console.log(`📝 ${siteName} 无昨日快照，跳过对比`);
