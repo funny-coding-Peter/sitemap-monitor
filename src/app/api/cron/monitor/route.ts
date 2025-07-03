@@ -173,12 +173,8 @@ async function runMonitoring(): Promise<void> {
 
 // Vercel Cron endpoint
 export async function GET(request: NextRequest) {
-  // 验证请求来源 (可选的安全措施)
-  const authHeader = request.headers.get('authorization');
-  if (process.env.CRON_SECRET && authHeader !== `Bearer ${process.env.CRON_SECRET}`) {
-    return NextResponse.json({ error: 'Unauthorized' }, { status: 401 });
-  }
-
+  console.log("🔧 定时任务API被调用");
+  
   try {
     await runMonitoring();
     return NextResponse.json({ 
