@@ -39,7 +39,7 @@ export async function sendFeishuNotification(message: string): Promise<boolean> 
     }
 
     const result = await response.json();
-    if (result.StatusCode !== 0) {
+    if (result.code !== 0) {
       console.error("飞书通知返回错误:", result);
       return false;
     }
