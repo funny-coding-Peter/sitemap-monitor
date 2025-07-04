@@ -63,22 +63,23 @@ export function formatSitemapDiffMessage(diffs: SitemapDiff[]): string {
   let message = `🔍 Sitemap监控 (${today})\n📊 发现新增页面和关键词：\n\n`;
 
   let totalNewUrls = 0;
-  let totalKeywords = 0;
+  const allKeywords = new Set<string>();
 
   for (const diff of diffs) {
     if (diff.newUrls.length > 0) {
       totalNewUrls += diff.newUrls.length;
-      totalKeywords += diff.keywords.length;
+      diff.keywords.forEach(keyword => allKeywords.add(keyword));
 
       message += `🌐 ${diff.site}\n`;
       message += `📈 新增 ${diff.newUrls.length} 个页面\n`;
       
       if (diff.keywords.length > 0) {
-        message += `🔑 关键词: ${diff.keywords.slice(0, 10).join(', ')}`;
+        message += `🔑 关键词: \n`;
+        const keywordsToShow = diff.keywords.slice(0, 10);
+        message += `- ${keywordsToShow.join(' ')}\n`;
         if (diff.keywords.length > 10) {
-          message += ` (+${diff.keywords.length - 10}个)`;
+          message += `- ... 还有${diff.keywords.length - 10}个关键词\n`;
         }
-        message += '\n';
       }
 
       // 显示前3个新URL作为示例
@@ -97,7 +98,7 @@ export function formatSitemapDiffMessage(diffs: SitemapDiff[]): string {
     }
   }
 
-  message += `📊 总计: ${totalNewUrls} 个新页面，${totalKeywords} 个关键词`;
+  message += `📊 总计: ${totalNewUrls} 个新页面，${allKeywords.size} 个关键词`;
   
   return message;
 }
