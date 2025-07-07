@@ -1,0 +1,39 @@
+name: Sitemap Monitor
+on:
+  schedule:
+    # 每天22:53北京时间执行 (UTC时间14:53)
+    - cron: "53 14 * * *"
+  workflow_dispatch: # 允许手动触发
+
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # 需要写权限来提交数据文件
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "18"
+
+      - name: Install dependencies
+        run: |
+          npm install xml2js
+
+      - name: Run sitemap monitoring
+        env:
+          FEISHU_WEBHOOK_URL: ${{ secrets.FEISHU_WEBHOOK_URL }}
+        run: |
+          node .github/scripts/monitor.js
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "lzb129239@gmail.com"
+          git config --local user.name "funny-coding-Peter"
+          git add data/snapshots/
+          git diff --staged --quiet || git commit -m "📊 Update sitemap snapshots - $(date '+%Y-%m-%d')"
+          git push
