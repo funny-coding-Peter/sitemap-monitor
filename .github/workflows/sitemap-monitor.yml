@@ -41,4 +41,5 @@ jobs:
           git config --local user.name "funny-coding-Peter"
           git add data/snapshots/
           git diff --staged --quiet || git commit -m "📊 Update sitemap snapshots - $(date '+%Y-%m-%d')"
+          git pull --rebase origin main
           git push
