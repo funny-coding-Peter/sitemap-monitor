@@ -1,7 +1,7 @@
-const fs = require("fs");
-const path = require("path");
-const { parseString } = require("xml2js");
-const { promisify } = require("util");
+import fs from "fs";
+import path from "path";
+import { parseString } from "xml2js";
+import { promisify } from "util";
 
 const parseXML = promisify(parseString);
 
