@@ -5,6 +5,8 @@ import { promisify } from "util";
 
 const parseXML = promisify(parseString);
 
+// Force refresh - ES modules version
+
 // 读取网站配置
 function getSitesConfig() {
   const configPath = path.join(process.cwd(), "public/site-config.json");
