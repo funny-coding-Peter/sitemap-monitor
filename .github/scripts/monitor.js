@@ -275,10 +275,50 @@ async function monitorSite(siteName, sitemapUrl) {
   }
 }
 
+// 清理过时快照文件 (保留最近7天的数据)
+function cleanupOldSnapshots() {
+  const snapshotsDir = path.join(process.cwd(), "data/snapshots");
+  if (!fs.existsSync(snapshotsDir)) return;
+
+  const sevenDaysAgo = new Date();
+  sevenDaysAgo.setDate(sevenDaysAgo.getDate() - 7);
+  const cutoffDate = sevenDaysAgo.toISOString().split("T")[0];
+
+  try {
+    const files = fs.readdirSync(snapshotsDir);
+    let deletedCount = 0;
+
+    for (const file of files) {
+      if (file.endsWith(".json")) {
+        // 从文件名提取日期 (格式: site_name_YYYY-MM-DD.json)
+        const dateMatch = file.match(/(\d{4}-\d{2}-\d{2})\.json$/);
+        if (dateMatch) {
+          const fileDate = dateMatch[1];
+          if (fileDate < cutoffDate) {
+            const filePath = path.join(snapshotsDir, file);
+            fs.unlinkSync(filePath);
+            deletedCount++;
+            console.log(`🗑️ 删除过期快照: ${file}`);
+          }
+        }
+      }
+    }
+
+    if (deletedCount > 0) {
+      console.log(`✅ 清理完成，删除了 ${deletedCount} 个过期快照文件`);
+    }
+  } catch (error) {
+    console.error("⚠️ 清理快照文件时出错:", error);
+  }
+}
+
 // 主监控函数
 async function runMonitoring() {
   try {
     console.log("🚀 开始执行 GitHub Actions 监控任务");
+
+    // 首先清理过时文件
+    cleanupOldSnapshots();
 
     // 读取配置文件获取所有需要监控的网站
     const sitesConfig = getSitesConfig();
