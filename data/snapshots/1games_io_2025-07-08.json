@@ -3,11 +3,6 @@
   "date": "2025-07-08",
   "urls": [
     "https://1games.io",
-    "https://1games.io/updated",
-    "https://1games.io/new-games",
-    "https://1games.io/hot-games",
-    "https://1games.io/recents",
-    "https://1games.io/all-tags",
     "https://1games.io/action.games",
     "https://1games.io/adventure.games",
     "https://1games.io/arcade.games",
@@ -1380,6 +1375,6 @@
     "https://1games.io/kabuto-park",
     "https://1games.io/blastronaut"
   ],
-  "totalCount": 1377,
-  "timestamp": "2025-07-08T03:41:18.197Z"
+  "totalCount": 1372,
+  "timestamp": "2025-07-08T04:54:06.431Z"
 }
