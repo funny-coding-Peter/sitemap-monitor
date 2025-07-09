@@ -3,11 +3,6 @@
   "date": "2025-07-09",
   "urls": [
     "https://1games.io",
-    "https://1games.io/updated",
-    "https://1games.io/new-games",
-    "https://1games.io/hot-games",
-    "https://1games.io/recents",
-    "https://1games.io/all-tags",
     "https://1games.io/action.games",
     "https://1games.io/adventure.games",
     "https://1games.io/arcade.games",
@@ -1382,6 +1377,6 @@
     "https://1games.io/alien-hominid",
     "https://1games.io/geometry-vibes-3d"
   ],
-  "totalCount": 1379,
-  "timestamp": "2025-07-09T03:44:53.748Z"
+  "totalCount": 1374,
+  "timestamp": "2025-07-09T05:00:16.274Z"
 }
