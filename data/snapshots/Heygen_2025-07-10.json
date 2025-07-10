@@ -157,6 +157,7 @@
     "https://www.heygen.com/tool/ai-video-script-generator",
     "https://www.heygen.com/tool/ai-voice-actor",
     "https://www.heygen.com/tool/ai-voice-cloning",
+    "https://www.heygen.com/tool/ai-voice-generator",
     "https://www.heygen.com/tool/ai-youtube-video-generator",
     "https://www.heygen.com/tool/audio-speed-changer",
     "https://www.heygen.com/tool/audio-to-video-converter",
@@ -200,7 +201,6 @@
     "https://www.heygen.com/tool/video-template",
     "https://www.heygen.com/tool/video-translator",
     "https://www.heygen.com/tool/voice-dubber",
-    "https://www.heygen.com/tool/voice-over-generator",
     "https://www.heygen.com/tool/youtube-video-translator",
     "https://www.heygen.com/translate",
     "https://www.heygen.com/translate/language-localization",
@@ -246,5 +246,5 @@
     "https://www.heygen.com/what-is-heygen"
   ],
   "totalCount": 242,
-  "timestamp": "2025-07-10T13:48:33.524Z"
+  "timestamp": "2025-07-10T16:55:48.759Z"
 }
