@@ -1,10 +1,14 @@
 {
   "site": "wordle2.io",
-  "date": "2025-07-03",
+  "date": "2025-07-11",
   "urls": [
     "https://wordle2.io",
+    "https://wordle2.io/x-trench-run",
+    "https://wordle2.io/bouncy-ragdoll",
+    "https://wordle2.io/stickman-clash",
     "https://wordle2.io/soccer-bros",
     "https://wordle2.io/flick-goal",
+    "https://wordle2.io/donkey-kong",
     "https://wordle2.io/powerline",
     "https://wordle2.io/spacewars",
     "https://wordle2.io/cornfield",
@@ -3039,5 +3043,6 @@
     "https://wordle2.io/wordle-game-online",
     "https://wordle2.io/classroom-6x"
   ],
-  "totalCount": 3036
+  "totalCount": 3040,
+  "timestamp": "2025-07-11T03:51:15.585Z"
 }
