@@ -3,11 +3,6 @@
   "date": "2025-07-11",
   "urls": [
     "https://1games.io",
-    "https://1games.io/updated",
-    "https://1games.io/new-games",
-    "https://1games.io/hot-games",
-    "https://1games.io/recents",
-    "https://1games.io/all-tags",
     "https://1games.io/action.games",
     "https://1games.io/adventure.games",
     "https://1games.io/arcade.games",
@@ -1382,8 +1377,10 @@
     "https://1games.io/alien-hominid",
     "https://1games.io/geometry-vibes-3d",
     "https://1games.io/big-block-blast",
-    "https://1games.io/suv-traffic-racer"
+    "https://1games.io/suv-traffic-racer",
+    "https://1games.io/tic-tac-toe-io",
+    "https://1games.io/snowtrail-legends"
   ],
-  "totalCount": 1381,
-  "timestamp": "2025-07-11T13:44:17.804Z"
+  "totalCount": 1378,
+  "timestamp": "2025-07-11T16:52:49.774Z"
 }
