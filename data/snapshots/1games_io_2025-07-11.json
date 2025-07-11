@@ -3,6 +3,11 @@
   "date": "2025-07-11",
   "urls": [
     "https://1games.io",
+    "https://1games.io/updated",
+    "https://1games.io/new-games",
+    "https://1games.io/hot-games",
+    "https://1games.io/recents",
+    "https://1games.io/all-tags",
     "https://1games.io/action.games",
     "https://1games.io/adventure.games",
     "https://1games.io/arcade.games",
@@ -1379,6 +1384,6 @@
     "https://1games.io/big-block-blast",
     "https://1games.io/suv-traffic-racer"
   ],
-  "totalCount": 1376,
-  "timestamp": "2025-07-11T05:00:43.036Z"
+  "totalCount": 1381,
+  "timestamp": "2025-07-11T08:53:35.910Z"
 }
