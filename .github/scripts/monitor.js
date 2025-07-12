@@ -323,16 +323,25 @@ function cleanupOldSnapshots() {
 
     for (const file of files) {
       if (file.endsWith(".json")) {
-        // 从文件名提取日期 (格式: site_name_YYYY-MM-DD_HH.json)
-        const dateMatch = file.match(/(\d{4}-\d{2}-\d{2})_\d{2}\.json$/);
-        if (dateMatch) {
-          const fileDate = dateMatch[1];
-          if (fileDate < cutoffDate) {
-            const filePath = path.join(snapshotsDir, file);
-            fs.unlinkSync(filePath);
-            deletedCount++;
-            console.log(`🗑️ 删除过期快照: ${file}`);
+        let fileDate = null;
+
+        // 匹配新格式: site_name_YYYY-MM-DD_HH.json
+        const newFormatMatch = file.match(/(\d{4}-\d{2}-\d{2})_\d{2}\.json$/);
+        if (newFormatMatch) {
+          fileDate = newFormatMatch[1];
+        } else {
+          // 匹配旧格式: site_name_YYYY-MM-DD.json
+          const oldFormatMatch = file.match(/(\d{4}-\d{2}-\d{2})\.json$/);
+          if (oldFormatMatch) {
+            fileDate = oldFormatMatch[1];
           }
+        }
+
+        if (fileDate && fileDate < cutoffDate) {
+          const filePath = path.join(snapshotsDir, file);
+          fs.unlinkSync(filePath);
+          deletedCount++;
+          console.log(`🗑️ 删除过期快照: ${file}`);
         }
       }
     }
