@@ -1,6 +1,6 @@
 {
   "site": "1games.io",
-  "date": "2025-07-07",
+  "datetime": "2025-07-15_02",
   "urls": [
     "https://1games.io",
     "https://1games.io/action.games",
@@ -1373,8 +1373,14 @@
     "https://1games.io/my-purrfect-cat-hotel",
     "https://1games.io/shleep",
     "https://1games.io/kabuto-park",
-    "https://1games.io/blastronaut"
+    "https://1games.io/blastronaut",
+    "https://1games.io/alien-hominid",
+    "https://1games.io/geometry-vibes-3d",
+    "https://1games.io/big-block-blast",
+    "https://1games.io/suv-traffic-racer",
+    "https://1games.io/tic-tac-toe-io",
+    "https://1games.io/snowtrail-legends"
   ],
-  "totalCount": 1372,
-  "timestamp": "2025-07-07T20:40:15.602Z"
+  "totalCount": 1378,
+  "timestamp": "2025-07-15T02:05:57.409Z"
 }

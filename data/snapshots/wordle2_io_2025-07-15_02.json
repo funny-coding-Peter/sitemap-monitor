@@ -1,8 +1,13 @@
 {
   "site": "wordle2.io",
-  "date": "2025-07-07",
+  "datetime": "2025-07-15_02",
   "urls": [
     "https://wordle2.io",
+    "https://wordle2.io/snowtrail-legends",
+    "https://wordle2.io/tic-tac-toe-io",
+    "https://wordle2.io/ball-orbit",
+    "https://wordle2.io/flying-kong",
+    "https://wordle2.io/x-trench-run",
     "https://wordle2.io/bouncy-ragdoll",
     "https://wordle2.io/stickman-clash",
     "https://wordle2.io/soccer-bros",
@@ -3042,6 +3047,6 @@
     "https://wordle2.io/wordle-game-online",
     "https://wordle2.io/classroom-6x"
   ],
-  "totalCount": 3039,
-  "timestamp": "2025-07-07T20:40:17.174Z"
+  "totalCount": 3044,
+  "timestamp": "2025-07-15T02:05:58.957Z"
 }

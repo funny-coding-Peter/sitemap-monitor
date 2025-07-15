@@ -1,6 +1,6 @@
 {
   "site": "pokerogue.io",
-  "date": "2025-07-07",
+  "datetime": "2025-07-15_02",
   "urls": [
     "https://pokerogue.io",
     "https://pokerogue.io/new-games",
@@ -794,10 +794,18 @@
     "https://pokerogue.io/vex-x3m",
     "https://pokerogue.io/soccer-dash",
     "https://pokerogue.io/beauty-puzzle",
+    "https://pokerogue.io/color-strings",
+    "https://pokerogue.io/popping-pets",
+    "https://pokerogue.io/supermarket-cashier-simulator",
+    "https://pokerogue.io/octonauts-bubbles",
     "https://pokerogue.io/stickman-clash",
     "https://pokerogue.io/territorial-io",
     "https://pokerogue.io/fun-typing-io",
     "https://pokerogue.io/ball-orbit",
+    "https://pokerogue.io/level-devil-not-a-troll-game",
+    "https://pokerogue.io/fast-food-simulator",
+    "https://pokerogue.io/miside",
+    "https://pokerogue.io/ragdoll-archers",
     "https://pokerogue.io/games/pokemon-games",
     "https://pokerogue.io/games/battle-games",
     "https://pokerogue.io/games/roguelike-games",
@@ -811,6 +819,6 @@
     "https://pokerogue.io/privacy-policy",
     "https://pokerogue.io/term-of-use"
   ],
-  "totalCount": 808,
-  "timestamp": "2025-07-07T20:40:16.037Z"
+  "totalCount": 816,
+  "timestamp": "2025-07-15T02:05:58.148Z"
 }
