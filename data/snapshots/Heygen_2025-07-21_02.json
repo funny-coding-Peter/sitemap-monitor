@@ -1,6 +1,6 @@
 {
   "site": "Heygen",
-  "datetime": "2025-07-13_20",
+  "datetime": "2025-07-21_02",
   "urls": [
     "https://www.heygen.com/",
     "https://www.heygen.com/2025-heygen-keynote",
@@ -20,6 +20,7 @@
     "https://www.heygen.com/agencies/fameplay",
     "https://www.heygen.com/agencies/favoured",
     "https://www.heygen.com/agencies/faye",
+    "https://www.heygen.com/agencies/hibou",
     "https://www.heygen.com/agencies/jamespublishing",
     "https://www.heygen.com/agencies/optime",
     "https://www.heygen.com/agencies/quantumstudios",
@@ -47,6 +48,7 @@
     "https://www.heygen.com/author",
     "https://www.heygen.com/author/anastasiia-nak",
     "https://www.heygen.com/author/andreas-henschel",
+    "https://www.heygen.com/author/audrey-van-zee",
     "https://www.heygen.com/author/ayesha-shaheryar",
     "https://www.heygen.com/author/daniel-pak",
     "https://www.heygen.com/author/darrell-puckett",
@@ -145,6 +147,7 @@
     "https://www.heygen.com/news/free-avatar-proofread-updates-new-dashboard-august-2024",
     "https://www.heygen.com/news/latest-drops-fall-2024",
     "https://www.heygen.com/news/wrapping-up-2024-heygens-highlights-and-whats-ahead",
+    "https://www.heygen.com/playbook/heygen-for-l-d-jumpstart-guide",
     "https://www.heygen.com/playbook/heygen-for-marketers-jumpstart-guide",
     "https://www.heygen.com/pricing",
     "https://www.heygen.com/showcase",
@@ -249,6 +252,6 @@
     "https://www.heygen.com/video-roi-calculator",
     "https://www.heygen.com/what-is-heygen"
   ],
-  "totalCount": 246,
-  "timestamp": "2025-07-13T20:36:51.334Z"
+  "totalCount": 249,
+  "timestamp": "2025-07-21T02:09:37.373Z"
 }
