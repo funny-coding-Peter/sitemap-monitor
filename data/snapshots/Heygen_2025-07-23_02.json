@@ -1,6 +1,6 @@
 {
   "site": "Heygen",
-  "datetime": "2025-07-15_04",
+  "datetime": "2025-07-23_02",
   "urls": [
     "https://www.heygen.com/",
     "https://www.heygen.com/2025-heygen-keynote",
@@ -15,7 +15,6 @@
     "https://www.heygen.com/agencies/bayray",
     "https://www.heygen.com/agencies/brainsonic",
     "https://www.heygen.com/agencies/ccm",
-    "https://www.heygen.com/agencies/content-factory",
     "https://www.heygen.com/agencies/digital-a-team",
     "https://www.heygen.com/agencies/fameplay",
     "https://www.heygen.com/agencies/favoured",
@@ -48,12 +47,12 @@
     "https://www.heygen.com/author",
     "https://www.heygen.com/author/anastasiia-nak",
     "https://www.heygen.com/author/andreas-henschel",
+    "https://www.heygen.com/author/audrey-van-zee",
     "https://www.heygen.com/author/ayesha-shaheryar",
     "https://www.heygen.com/author/daniel-pak",
     "https://www.heygen.com/author/darrell-puckett",
     "https://www.heygen.com/author/dr-kenneth-hanson",
     "https://www.heygen.com/author/emmanuel-whyke",
-    "https://www.heygen.com/author/heygen-staff",
     "https://www.heygen.com/author/holly-xiao",
     "https://www.heygen.com/author/jean-marie-petit",
     "https://www.heygen.com/author/jesse-b",
@@ -63,6 +62,7 @@
     "https://www.heygen.com/author/kelly-peters",
     "https://www.heygen.com/author/lavanya-poreddy",
     "https://www.heygen.com/author/nav-singh",
+    "https://www.heygen.com/author/nick-warner",
     "https://www.heygen.com/author/nicole-donnelly",
     "https://www.heygen.com/author/patrick-elder",
     "https://www.heygen.com/author/roman-geugelin",
@@ -252,5 +252,5 @@
     "https://www.heygen.com/what-is-heygen"
   ],
   "totalCount": 248,
-  "timestamp": "2025-07-15T04:30:59.076Z"
+  "timestamp": "2025-07-23T02:05:04.525Z"
 }
