@@ -1,8 +1,13 @@
 {
   "site": "1games.io",
-  "datetime": "2025-07-18_02",
+  "datetime": "2025-07-26_02",
   "urls": [
     "https://1games.io",
+    "https://1games.io/updated",
+    "https://1games.io/new-games",
+    "https://1games.io/hot-games",
+    "https://1games.io/recents",
+    "https://1games.io/all-tags",
     "https://1games.io/action.games",
     "https://1games.io/adventure.games",
     "https://1games.io/arcade.games",
@@ -1271,7 +1276,6 @@
     "https://1games.io/getaway-shootout",
     "https://1games.io/candy-clicker-2",
     "https://1games.io/mcdonald-s-video-game",
-    "https://1games.io/italian-brainrot-clicker",
     "https://1games.io/wacky-flip",
     "https://1games.io/forest-mouse",
     "https://1games.io/crazy-cow-3d",
@@ -1354,7 +1358,6 @@
     "https://1games.io/tower-wizard",
     "https://1games.io/foodstars-io",
     "https://1games.io/last-chess-standing",
-    "https://1games.io/bfdi-branches",
     "https://1games.io/supermarket-simulator",
     "https://1games.io/re-run",
     "https://1games.io/dadish",
@@ -1364,6 +1367,7 @@
     "https://1games.io/ball-orbit",
     "https://1games.io/grimstone",
     "https://1games.io/scale-the-depths",
+    "https://1games.io/loot-and-scoot",
     "https://1games.io/yokai-dungeon",
     "https://1games.io/retro-highway",
     "https://1games.io/gourdlets",
@@ -1380,9 +1384,13 @@
     "https://1games.io/suv-traffic-racer",
     "https://1games.io/tic-tac-toe-io",
     "https://1games.io/snowtrail-legends",
+    "https://1games.io/fury-chase-2",
+    "https://1games.io/dunk-dash",
+    "https://1games.io/dashmetry",
     "https://1games.io/labubu-doll-mukbang-asmr-unblocked",
-    "https://1games.io/labubu-and-treasures-fun-adventure"
+    "https://1games.io/labubu-and-treasures-fun-adventure",
+    "https://1games.io/dude-theft-auto"
   ],
-  "totalCount": 1380,
-  "timestamp": "2025-07-18T02:04:51.943Z"
+  "totalCount": 1388,
+  "timestamp": "2025-07-26T02:00:05.453Z"
 }
