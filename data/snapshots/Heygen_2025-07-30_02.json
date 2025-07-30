@@ -1,6 +1,6 @@
 {
   "site": "Heygen",
-  "datetime": "2025-07-22_20",
+  "datetime": "2025-07-30_02",
   "urls": [
     "https://www.heygen.com/",
     "https://www.heygen.com/2025-heygen-keynote",
@@ -16,6 +16,7 @@
     "https://www.heygen.com/agencies/brainsonic",
     "https://www.heygen.com/agencies/ccm",
     "https://www.heygen.com/agencies/digital-a-team",
+    "https://www.heygen.com/agencies/fadpro",
     "https://www.heygen.com/agencies/fameplay",
     "https://www.heygen.com/agencies/favoured",
     "https://www.heygen.com/agencies/faye",
@@ -53,7 +54,6 @@
     "https://www.heygen.com/author/darrell-puckett",
     "https://www.heygen.com/author/dr-kenneth-hanson",
     "https://www.heygen.com/author/emmanuel-whyke",
-    "https://www.heygen.com/author/heygen-staff",
     "https://www.heygen.com/author/holly-xiao",
     "https://www.heygen.com/author/jean-marie-petit",
     "https://www.heygen.com/author/jesse-b",
@@ -63,6 +63,7 @@
     "https://www.heygen.com/author/kelly-peters",
     "https://www.heygen.com/author/lavanya-poreddy",
     "https://www.heygen.com/author/nav-singh",
+    "https://www.heygen.com/author/nick-warner",
     "https://www.heygen.com/author/nicole-donnelly",
     "https://www.heygen.com/author/patrick-elder",
     "https://www.heygen.com/author/roman-geugelin",
@@ -113,7 +114,6 @@
     "https://www.heygen.com/customer-stories/wurth-group",
     "https://www.heygen.com/data-processing-addendum",
     "https://www.heygen.com/ebook",
-    "https://www.heygen.com/ebook/personalized-video-marketing-strategy",
     "https://www.heygen.com/enterprise",
     "https://www.heygen.com/ethics",
     "https://www.heygen.com/faq",
@@ -157,7 +157,6 @@
     "https://www.heygen.com/tool/add-stickers-to-video",
     "https://www.heygen.com/tool/add-text-to-video",
     "https://www.heygen.com/tool/ai-captions",
-    "https://www.heygen.com/tool/ai-podcast-generator",
     "https://www.heygen.com/tool/ai-text-to-speech-video",
     "https://www.heygen.com/tool/ai-tiktok-video-generator",
     "https://www.heygen.com/tool/ai-video-script-generator",
@@ -168,7 +167,6 @@
     "https://www.heygen.com/tool/audio-speed-changer",
     "https://www.heygen.com/tool/audio-to-video-converter",
     "https://www.heygen.com/tool/combine-two-videos",
-    "https://www.heygen.com/tool/create-ai-avatars",
     "https://www.heygen.com/tool/create-ai-lip-sync-videos",
     "https://www.heygen.com/tool/create-your-own-avatar",
     "https://www.heygen.com/tool/deepfake-maker",
@@ -178,9 +176,6 @@
     "https://www.heygen.com/tool/english-to-portuguese",
     "https://www.heygen.com/tool/english-to-spanish",
     "https://www.heygen.com/tool/face-swap-video",
-    "https://www.heygen.com/tool/free-ai-video-generator",
-    "https://www.heygen.com/tool/free-ai-video-generator-no-watermark",
-    "https://www.heygen.com/tool/free-avatar-video-generator",
     "https://www.heygen.com/tool/free-text-to-video-generator",
     "https://www.heygen.com/tool/french-to-spanish",
     "https://www.heygen.com/tool/german-to-english",
@@ -205,7 +200,6 @@
     "https://www.heygen.com/tool/video-player",
     "https://www.heygen.com/tool/video-size-compressor",
     "https://www.heygen.com/tool/video-template",
-    "https://www.heygen.com/tool/video-translator",
     "https://www.heygen.com/tool/voice-dubber",
     "https://www.heygen.com/tool/youtube-video-translator",
     "https://www.heygen.com/translate",
@@ -251,6 +245,6 @@
     "https://www.heygen.com/video-roi-calculator",
     "https://www.heygen.com/what-is-heygen"
   ],
-  "totalCount": 248,
-  "timestamp": "2025-07-22T20:12:06.656Z"
+  "totalCount": 242,
+  "timestamp": "2025-07-30T02:06:55.459Z"
 }

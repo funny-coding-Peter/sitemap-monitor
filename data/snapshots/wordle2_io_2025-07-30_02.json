@@ -1,8 +1,14 @@
 {
   "site": "wordle2.io",
-  "datetime": "2025-07-22_20",
+  "datetime": "2025-07-30_02",
   "urls": [
     "https://wordle2.io",
+    "https://wordle2.io/donkey-kong-bananza",
+    "https://wordle2.io/minute-cryptic",
+    "https://wordle2.io/pips-game",
+    "https://wordle2.io/fortzone-battle-royale",
+    "https://wordle2.io/bonedle",
+    "https://wordle2.io/money-movers",
     "https://wordle2.io/soccer-stars",
     "https://wordle2.io/underwheels",
     "https://wordle2.io/grow-a-garden-calculator",
@@ -3053,6 +3059,6 @@
     "https://wordle2.io/wordle-game-online",
     "https://wordle2.io/classroom-6x"
   ],
-  "totalCount": 3050,
-  "timestamp": "2025-07-22T20:12:07.669Z"
+  "totalCount": 3056,
+  "timestamp": "2025-07-30T02:06:56.299Z"
 }
