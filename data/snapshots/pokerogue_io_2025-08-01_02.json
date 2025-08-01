@@ -1,6 +1,6 @@
 {
   "site": "pokerogue.io",
-  "datetime": "2025-07-24_12",
+  "datetime": "2025-08-01_02",
   "urls": [
     "https://pokerogue.io",
     "https://pokerogue.io/new-games",
@@ -811,6 +811,10 @@
     "https://pokerogue.io/rooftop-run",
     "https://pokerogue.io/snowtrail-legends",
     "https://pokerogue.io/tic-tac-toe-io",
+    "https://pokerogue.io/get-on-top",
+    "https://pokerogue.io/bonedle",
+    "https://pokerogue.io/dunk-dash",
+    "https://pokerogue.io/fury-chase-2",
     "https://pokerogue.io/games/pokemon-games",
     "https://pokerogue.io/games/battle-games",
     "https://pokerogue.io/games/roguelike-games",
@@ -818,12 +822,16 @@
     "https://pokerogue.io/games/immersive-games",
     "https://pokerogue.io/games/trending-games",
     "https://pokerogue.io/games/rpg-games",
+    "https://pokerogue.io/tag/quiz-games",
+    "https://pokerogue.io/tag/puzzle",
+    "https://pokerogue.io/tag/casual-games",
+    "https://pokerogue.io/tag/racing-game",
     "https://pokerogue.io/about-us",
     "https://pokerogue.io/copyright-infringement-notice-procedure",
     "https://pokerogue.io/contact-us",
     "https://pokerogue.io/privacy-policy",
     "https://pokerogue.io/term-of-use"
   ],
-  "totalCount": 821,
-  "timestamp": "2025-07-24T12:39:40.025Z"
+  "totalCount": 829,
+  "timestamp": "2025-08-01T02:23:02.911Z"
 }
