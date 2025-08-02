@@ -1,6 +1,6 @@
 {
   "site": "Heygen",
-  "datetime": "2025-07-25_08",
+  "datetime": "2025-08-02_02",
   "urls": [
     "https://www.heygen.com/",
     "https://www.heygen.com/2025-heygen-keynote",
@@ -146,8 +146,11 @@
     "https://www.heygen.com/news/free-avatar-proofread-updates-new-dashboard-august-2024",
     "https://www.heygen.com/news/latest-drops-fall-2024",
     "https://www.heygen.com/news/wrapping-up-2024-heygens-highlights-and-whats-ahead",
+    "https://www.heygen.com/playbook/heygen-for-agencies-jumpstart-guide",
+    "https://www.heygen.com/playbook/heygen-for-content-creators-jumpstart-guide",
     "https://www.heygen.com/playbook/heygen-for-l-d-jumpstart-guide",
     "https://www.heygen.com/playbook/heygen-for-marketers-jumpstart-guide",
+    "https://www.heygen.com/playbook/heygen-for-smb-jumpstart-guide",
     "https://www.heygen.com/pricing",
     "https://www.heygen.com/showcase",
     "https://www.heygen.com/terms",
@@ -157,6 +160,7 @@
     "https://www.heygen.com/tool/add-stickers-to-video",
     "https://www.heygen.com/tool/add-text-to-video",
     "https://www.heygen.com/tool/ai-captions",
+    "https://www.heygen.com/tool/ai-dubbing",
     "https://www.heygen.com/tool/ai-text-to-speech-video",
     "https://www.heygen.com/tool/ai-tiktok-video-generator",
     "https://www.heygen.com/tool/ai-video-script-generator",
@@ -182,7 +186,7 @@
     "https://www.heygen.com/tool/german-to-hindi",
     "https://www.heygen.com/tool/german-to-portuguese",
     "https://www.heygen.com/tool/german-to-spanish",
-    "https://www.heygen.com/tool/images-to-video",
+    "https://www.heygen.com/tool/image-to-video",
     "https://www.heygen.com/tool/increase-volume-of-video",
     "https://www.heygen.com/tool/loop-video",
     "https://www.heygen.com/tool/online-video-trimmer",
@@ -200,7 +204,6 @@
     "https://www.heygen.com/tool/video-player",
     "https://www.heygen.com/tool/video-size-compressor",
     "https://www.heygen.com/tool/video-template",
-    "https://www.heygen.com/tool/voice-dubber",
     "https://www.heygen.com/tool/youtube-video-translator",
     "https://www.heygen.com/translate",
     "https://www.heygen.com/translate/language-localization",
@@ -245,6 +248,6 @@
     "https://www.heygen.com/video-roi-calculator",
     "https://www.heygen.com/what-is-heygen"
   ],
-  "totalCount": 242,
-  "timestamp": "2025-07-25T08:18:03.428Z"
+  "totalCount": 245,
+  "timestamp": "2025-08-02T02:00:58.857Z"
 }
