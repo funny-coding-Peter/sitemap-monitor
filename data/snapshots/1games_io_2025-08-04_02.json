@@ -1,8 +1,13 @@
 {
   "site": "1games.io",
-  "datetime": "2025-07-27_02",
+  "datetime": "2025-08-04_02",
   "urls": [
     "https://1games.io",
+    "https://1games.io/updated",
+    "https://1games.io/new-games",
+    "https://1games.io/hot-games",
+    "https://1games.io/recents",
+    "https://1games.io/all-tags",
     "https://1games.io/action.games",
     "https://1games.io/adventure.games",
     "https://1games.io/arcade.games",
@@ -1384,8 +1389,9 @@
     "https://1games.io/dashmetry",
     "https://1games.io/labubu-doll-mukbang-asmr-unblocked",
     "https://1games.io/labubu-and-treasures-fun-adventure",
-    "https://1games.io/dude-theft-auto"
+    "https://1games.io/dude-theft-auto",
+    "https://1games.io/billiards-master"
   ],
-  "totalCount": 1383,
-  "timestamp": "2025-07-27T02:19:31.810Z"
+  "totalCount": 1389,
+  "timestamp": "2025-08-04T02:21:26.668Z"
 }
