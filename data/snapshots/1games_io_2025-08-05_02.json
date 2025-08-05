@@ -1,8 +1,13 @@
 {
   "site": "1games.io",
-  "datetime": "2025-07-28_08",
+  "datetime": "2025-08-05_02",
   "urls": [
     "https://1games.io",
+    "https://1games.io/updated",
+    "https://1games.io/new-games",
+    "https://1games.io/hot-games",
+    "https://1games.io/recents",
+    "https://1games.io/all-tags",
     "https://1games.io/action.games",
     "https://1games.io/adventure.games",
     "https://1games.io/arcade.games",
@@ -1320,6 +1325,7 @@
     "https://1games.io/die-in-the-dungeon",
     "https://1games.io/geometry-vibes-monster",
     "https://1games.io/doom-rider",
+    "https://1games.io/american-truck-driving",
     "https://1games.io/wacky-nursery",
     "https://1games.io/merge-brainrot",
     "https://1games.io/deltarune",
@@ -1384,8 +1390,9 @@
     "https://1games.io/dashmetry",
     "https://1games.io/labubu-doll-mukbang-asmr-unblocked",
     "https://1games.io/labubu-and-treasures-fun-adventure",
-    "https://1games.io/dude-theft-auto"
+    "https://1games.io/dude-theft-auto",
+    "https://1games.io/billiards-master"
   ],
-  "totalCount": 1383,
-  "timestamp": "2025-07-28T08:20:38.839Z"
+  "totalCount": 1390,
+  "timestamp": "2025-08-05T02:09:19.132Z"
 }
