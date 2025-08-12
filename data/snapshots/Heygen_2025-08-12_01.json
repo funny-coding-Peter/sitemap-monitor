@@ -1,6 +1,6 @@
 {
   "site": "Heygen",
-  "datetime": "2025-08-04_20",
+  "datetime": "2025-08-12_01",
   "urls": [
     "https://www.heygen.com/",
     "https://www.heygen.com/2025-heygen-keynote",
@@ -205,7 +205,19 @@
     "https://www.heygen.com/tool/video-template",
     "https://www.heygen.com/tool/youtube-video-translator",
     "https://www.heygen.com/translate",
+    "https://www.heygen.com/translate/ai-dubbing",
+    "https://www.heygen.com/translate/english-to-french",
+    "https://www.heygen.com/translate/english-to-german",
+    "https://www.heygen.com/translate/english-to-hindi",
+    "https://www.heygen.com/translate/english-to-portuguese",
+    "https://www.heygen.com/translate/english-to-spanish",
+    "https://www.heygen.com/translate/french-to-spanish",
+    "https://www.heygen.com/translate/german-to-english",
+    "https://www.heygen.com/translate/german-to-hindi",
+    "https://www.heygen.com/translate/german-to-portuguese",
+    "https://www.heygen.com/translate/german-to-spanish",
     "https://www.heygen.com/translate/language-localization",
+    "https://www.heygen.com/translate/youtube-video-translator",
     "https://www.heygen.com/trust-and-safety",
     "https://www.heygen.com/use-cases",
     "https://www.heygen.com/use-cases/ai-sdrs",
@@ -247,6 +259,6 @@
     "https://www.heygen.com/video-roi-calculator",
     "https://www.heygen.com/what-is-heygen"
   ],
-  "totalCount": 244,
-  "timestamp": "2025-08-04T20:12:07.106Z"
+  "totalCount": 256,
+  "timestamp": "2025-08-12T01:55:35.070Z"
 }

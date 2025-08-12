@@ -1,6 +1,6 @@
 {
   "site": "pokerogue.io",
-  "datetime": "2025-08-04_02",
+  "datetime": "2025-08-12_01",
   "urls": [
     "https://pokerogue.io",
     "https://pokerogue.io/new-games",
@@ -816,6 +816,8 @@
     "https://pokerogue.io/dunk-dash",
     "https://pokerogue.io/fury-chase-2",
     "https://pokerogue.io/steal-brainrot-online",
+    "https://pokerogue.io/tunnel-road",
+    "https://pokerogue.io/planet-smash-destruction",
     "https://pokerogue.io/games/pokemon-games",
     "https://pokerogue.io/games/battle-games",
     "https://pokerogue.io/games/roguelike-games",
@@ -833,6 +835,6 @@
     "https://pokerogue.io/privacy-policy",
     "https://pokerogue.io/term-of-use"
   ],
-  "totalCount": 830,
-  "timestamp": "2025-08-04T02:21:27.240Z"
+  "totalCount": 832,
+  "timestamp": "2025-08-12T01:55:35.088Z"
 }
