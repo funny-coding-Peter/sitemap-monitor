@@ -1,8 +1,12 @@
 {
   "site": "wordle2.io",
-  "datetime": "2025-08-05_02",
+  "datetime": "2025-08-13_01",
   "urls": [
     "https://wordle2.io",
+    "https://wordle2.io/planet-smash-destruction",
+    "https://wordle2.io/bloodmoney",
+    "https://wordle2.io/among-rescue",
+    "https://wordle2.io/labubu-playground",
     "https://wordle2.io/melon-sandbox-0",
     "https://wordle2.io/perfect-tidygoods-sort",
     "https://wordle2.io/stickman-dragon-fight",
@@ -3065,6 +3069,6 @@
     "https://wordle2.io/wordle-game-online",
     "https://wordle2.io/classroom-6x"
   ],
-  "totalCount": 3062,
-  "timestamp": "2025-08-05T02:09:20.736Z"
+  "totalCount": 3066,
+  "timestamp": "2025-08-13T01:57:42.895Z"
 }
