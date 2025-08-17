@@ -1,13 +1,8 @@
 {
   "site": "1games.io",
-  "datetime": "2025-08-09_08",
+  "datetime": "2025-08-17_02",
   "urls": [
     "https://1games.io",
-    "https://1games.io/updated",
-    "https://1games.io/new-games",
-    "https://1games.io/hot-games",
-    "https://1games.io/recents",
-    "https://1games.io/all-tags",
     "https://1games.io/action.games",
     "https://1games.io/adventure.games",
     "https://1games.io/arcade.games",
@@ -1392,8 +1387,12 @@
     "https://1games.io/labubu-and-treasures-fun-adventure",
     "https://1games.io/dude-theft-auto",
     "https://1games.io/billiards-master",
-    "https://1games.io/icy-dash"
+    "https://1games.io/icy-dash",
+    "https://1games.io/bloodmoney",
+    "https://1games.io/trimerge",
+    "https://1games.io/curve-rush-2",
+    "https://1games.io/deer-adventure"
   ],
-  "totalCount": 1391,
-  "timestamp": "2025-08-09T08:16:11.877Z"
+  "totalCount": 1390,
+  "timestamp": "2025-08-17T02:04:36.969Z"
 }

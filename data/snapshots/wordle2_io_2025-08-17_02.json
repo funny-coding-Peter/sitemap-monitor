@@ -1,8 +1,13 @@
 {
   "site": "wordle2.io",
-  "datetime": "2025-08-09_16",
+  "datetime": "2025-08-17_02",
   "urls": [
     "https://wordle2.io",
+    "https://wordle2.io/titan-clicker",
+    "https://wordle2.io/royaledle",
+    "https://wordle2.io/icy-dash",
+    "https://wordle2.io/planet-smash-destruction",
+    "https://wordle2.io/bloodmoney",
     "https://wordle2.io/among-rescue",
     "https://wordle2.io/labubu-playground",
     "https://wordle2.io/melon-sandbox-0",
@@ -3067,6 +3072,6 @@
     "https://wordle2.io/wordle-game-online",
     "https://wordle2.io/classroom-6x"
   ],
-  "totalCount": 3064,
-  "timestamp": "2025-08-09T16:15:33.162Z"
+  "totalCount": 3069,
+  "timestamp": "2025-08-17T02:04:38.547Z"
 }

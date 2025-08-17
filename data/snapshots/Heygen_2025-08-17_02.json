@@ -1,6 +1,6 @@
 {
   "site": "Heygen",
-  "datetime": "2025-08-09_08",
+  "datetime": "2025-08-17_02",
   "urls": [
     "https://www.heygen.com/",
     "https://www.heygen.com/2025-heygen-keynote",
@@ -34,6 +34,7 @@
     "https://www.heygen.com/agencies/videoimagem",
     "https://www.heygen.com/agencies/vla",
     "https://www.heygen.com/ai-glossary",
+    "https://www.heygen.com/ai-innovators",
     "https://www.heygen.com/ai-podcast-generator",
     "https://www.heygen.com/ai-research",
     "https://www.heygen.com/ai-studio",
@@ -259,6 +260,6 @@
     "https://www.heygen.com/video-roi-calculator",
     "https://www.heygen.com/what-is-heygen"
   ],
-  "totalCount": 256,
-  "timestamp": "2025-08-09T08:16:12.101Z"
+  "totalCount": 257,
+  "timestamp": "2025-08-17T02:04:37.552Z"
 }
