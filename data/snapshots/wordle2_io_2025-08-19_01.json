@@ -1,8 +1,15 @@
 {
   "site": "wordle2.io",
-  "datetime": "2025-08-11_12",
+  "datetime": "2025-08-19_01",
   "urls": [
     "https://wordle2.io",
+    "https://wordle2.io/chiikawa-puzzle",
+    "https://wordle2.io/deer-adventure",
+    "https://wordle2.io/titan-clicker",
+    "https://wordle2.io/royaledle",
+    "https://wordle2.io/icy-dash",
+    "https://wordle2.io/planet-smash-destruction",
+    "https://wordle2.io/bloodmoney",
     "https://wordle2.io/among-rescue",
     "https://wordle2.io/labubu-playground",
     "https://wordle2.io/melon-sandbox-0",
@@ -3067,6 +3074,6 @@
     "https://wordle2.io/wordle-game-online",
     "https://wordle2.io/classroom-6x"
   ],
-  "totalCount": 3064,
-  "timestamp": "2025-08-11T12:39:51.217Z"
+  "totalCount": 3071,
+  "timestamp": "2025-08-19T01:52:33.983Z"
 }

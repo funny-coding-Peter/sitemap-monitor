@@ -1,8 +1,13 @@
 {
   "site": "1games.io",
-  "datetime": "2025-08-11_20",
+  "datetime": "2025-08-19_01",
   "urls": [
     "https://1games.io",
+    "https://1games.io/updated",
+    "https://1games.io/new-games",
+    "https://1games.io/hot-games",
+    "https://1games.io/recents",
+    "https://1games.io/all-tags",
     "https://1games.io/action.games",
     "https://1games.io/adventure.games",
     "https://1games.io/arcade.games",
@@ -193,6 +198,7 @@
     "https://1games.io/tag/crazy-cattle-3d",
     "https://1games.io/tag/italian-brainrot",
     "https://1games.io/tag/chilling",
+    "https://1games.io/tag/itch",
     "https://1games.io/super-mario-bros",
     "https://1games.io/drive-mad",
     "https://1games.io/retro-bowl",
@@ -1387,8 +1393,13 @@
     "https://1games.io/labubu-and-treasures-fun-adventure",
     "https://1games.io/dude-theft-auto",
     "https://1games.io/billiards-master",
-    "https://1games.io/icy-dash"
+    "https://1games.io/icy-dash",
+    "https://1games.io/bloodmoney",
+    "https://1games.io/trimerge",
+    "https://1games.io/curve-rush-2",
+    "https://1games.io/deer-adventure",
+    "https://1games.io/chiikawa-puzzle"
   ],
-  "totalCount": 1386,
-  "timestamp": "2025-08-11T20:11:24.665Z"
+  "totalCount": 1397,
+  "timestamp": "2025-08-19T01:52:32.426Z"
 }
