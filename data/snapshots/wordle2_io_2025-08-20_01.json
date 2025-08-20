@@ -1,8 +1,15 @@
 {
   "site": "wordle2.io",
-  "datetime": "2025-08-12_12",
+  "datetime": "2025-08-20_01",
   "urls": [
     "https://wordle2.io",
+    "https://wordle2.io/pips-nyt",
+    "https://wordle2.io/this-game-will-end-in-205-clicks",
+    "https://wordle2.io/chiikawa-puzzle",
+    "https://wordle2.io/deer-adventure",
+    "https://wordle2.io/titan-clicker",
+    "https://wordle2.io/royaledle",
+    "https://wordle2.io/icy-dash",
     "https://wordle2.io/planet-smash-destruction",
     "https://wordle2.io/bloodmoney",
     "https://wordle2.io/among-rescue",
@@ -3069,6 +3076,6 @@
     "https://wordle2.io/wordle-game-online",
     "https://wordle2.io/classroom-6x"
   ],
-  "totalCount": 3066,
-  "timestamp": "2025-08-12T12:37:42.115Z"
+  "totalCount": 3073,
+  "timestamp": "2025-08-20T01:50:22.087Z"
 }

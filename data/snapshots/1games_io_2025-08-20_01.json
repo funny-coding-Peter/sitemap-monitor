@@ -1,13 +1,8 @@
 {
   "site": "1games.io",
-  "datetime": "2025-08-12_01",
+  "datetime": "2025-08-20_01",
   "urls": [
     "https://1games.io",
-    "https://1games.io/updated",
-    "https://1games.io/new-games",
-    "https://1games.io/hot-games",
-    "https://1games.io/recents",
-    "https://1games.io/all-tags",
     "https://1games.io/action.games",
     "https://1games.io/adventure.games",
     "https://1games.io/arcade.games",
@@ -198,6 +193,10 @@
     "https://1games.io/tag/crazy-cattle-3d",
     "https://1games.io/tag/italian-brainrot",
     "https://1games.io/tag/chilling",
+    "https://1games.io/tag/itch",
+    "https://1games.io/tag/tap-road",
+    "https://1games.io/tag/curve-rush",
+    "https://1games.io/tag/escape-road",
     "https://1games.io/super-mario-bros",
     "https://1games.io/drive-mad",
     "https://1games.io/retro-bowl",
@@ -884,7 +883,7 @@
     "https://1games.io/tower-defence-world-of-flying-islands",
     "https://1games.io/hard-life",
     "https://1games.io/eugene-s-life",
-    "https://1games.io/relic-runway-0",
+    "https://1games.io/relic-runway",
     "https://1games.io/duck-life-adventure",
     "https://1games.io/dragon-simulator-3d",
     "https://1games.io/dog-simulator-3d",
@@ -1392,8 +1391,13 @@
     "https://1games.io/labubu-and-treasures-fun-adventure",
     "https://1games.io/dude-theft-auto",
     "https://1games.io/billiards-master",
-    "https://1games.io/icy-dash"
+    "https://1games.io/icy-dash",
+    "https://1games.io/bloodmoney",
+    "https://1games.io/trimerge",
+    "https://1games.io/curve-rush-2",
+    "https://1games.io/deer-adventure",
+    "https://1games.io/chiikawa-puzzle"
   ],
-  "totalCount": 1391,
-  "timestamp": "2025-08-12T01:55:34.561Z"
+  "totalCount": 1395,
+  "timestamp": "2025-08-20T01:50:20.022Z"
 }
