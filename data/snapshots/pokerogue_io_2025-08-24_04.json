@@ -1,6 +1,6 @@
 {
   "site": "pokerogue.io",
-  "datetime": "2025-08-16_01",
+  "datetime": "2025-08-24_04",
   "urls": [
     "https://pokerogue.io",
     "https://pokerogue.io/new-games",
@@ -813,6 +813,9 @@
     "https://pokerogue.io/steal-brainrot-online",
     "https://pokerogue.io/tunnel-road",
     "https://pokerogue.io/planet-smash-destruction",
+    "https://pokerogue.io/chiikawa-puzzle",
+    "https://pokerogue.io/bloodmoney",
+    "https://pokerogue.io/pips-nyt",
     "https://pokerogue.io/games/pokemon-games",
     "https://pokerogue.io/games/battle-games",
     "https://pokerogue.io/games/roguelike-games",
@@ -827,12 +830,18 @@
     "https://pokerogue.io/tag/casual-game",
     "https://pokerogue.io/tag/destroy-games",
     "https://pokerogue.io/tag/simulation-games",
+    "https://pokerogue.io/tag/clicker-game",
+    "https://pokerogue.io/tag/horror-games",
+    "https://pokerogue.io/tag/puzzle-game",
+    "https://pokerogue.io/tag/quiz-game",
+    "https://pokerogue.io/tag/dominoes-games",
+    "https://pokerogue.io/tag/daily-games",
     "https://pokerogue.io/about-us",
     "https://pokerogue.io/copyright-infringement-notice-procedure",
     "https://pokerogue.io/contact-us",
     "https://pokerogue.io/privacy-policy",
     "https://pokerogue.io/term-of-use"
   ],
-  "totalCount": 830,
-  "timestamp": "2025-08-16T01:53:07.692Z"
+  "totalCount": 839,
+  "timestamp": "2025-08-24T04:17:00.971Z"
 }
