@@ -1,6 +1,6 @@
 {
   "site": "magichour.ai",
-  "datetime": "2025-08-18_04",
+  "datetime": "2025-08-26_01",
   "urls": [
     "https://magichour.ai/sign-in/error",
     "https://magichour.ai/sign-in",
@@ -24,6 +24,7 @@
     "https://magichour.ai/products/ai-qr-code-generator",
     "https://magichour.ai/products/ai-selfie-generator",
     "https://magichour.ai/products/ai-talking-photo",
+    "https://magichour.ai/products/ai-video-generator",
     "https://magichour.ai/products/animation",
     "https://magichour.ai/products/auto-subtitle-generator",
     "https://magichour.ai/products/face-swap",
@@ -39,6 +40,6 @@
     "https://magichour.ai/templates",
     "https://magichour.ai/terms-of-service"
   ],
-  "totalCount": 36,
-  "timestamp": "2025-08-18T04:29:58.194Z"
+  "totalCount": 37,
+  "timestamp": "2025-08-26T01:50:43.763Z"
 }
