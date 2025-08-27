@@ -1,13 +1,8 @@
 {
   "site": "1games.io",
-  "datetime": "2025-08-19_01",
+  "datetime": "2025-08-27_01",
   "urls": [
     "https://1games.io",
-    "https://1games.io/updated",
-    "https://1games.io/new-games",
-    "https://1games.io/hot-games",
-    "https://1games.io/recents",
-    "https://1games.io/all-tags",
     "https://1games.io/action.games",
     "https://1games.io/adventure.games",
     "https://1games.io/arcade.games",
@@ -199,6 +194,9 @@
     "https://1games.io/tag/italian-brainrot",
     "https://1games.io/tag/chilling",
     "https://1games.io/tag/itch",
+    "https://1games.io/tag/tap-road",
+    "https://1games.io/tag/curve-rush",
+    "https://1games.io/tag/escape-road",
     "https://1games.io/super-mario-bros",
     "https://1games.io/drive-mad",
     "https://1games.io/retro-bowl",
@@ -885,7 +883,7 @@
     "https://1games.io/tower-defence-world-of-flying-islands",
     "https://1games.io/hard-life",
     "https://1games.io/eugene-s-life",
-    "https://1games.io/relic-runway-0",
+    "https://1games.io/relic-runway",
     "https://1games.io/duck-life-adventure",
     "https://1games.io/dragon-simulator-3d",
     "https://1games.io/dog-simulator-3d",
@@ -1145,7 +1143,6 @@
     "https://1games.io/prison-punch",
     "https://1games.io/combimon",
     "https://1games.io/subway-surfers-year-of-the-snake",
-    "https://1games.io/sword-masters",
     "https://1games.io/burrito-bison",
     "https://1games.io/shortcut-race",
     "https://1games.io/zombie-survival",
@@ -1187,6 +1184,7 @@
     "https://1games.io/uphill-rush-12",
     "https://1games.io/sprunki-1996",
     "https://1games.io/deadshot-io",
+    "https://1games.io/mama-s-cookeria",
     "https://1games.io/ziggy-road",
     "https://1games.io/animal-arena",
     "https://1games.io/ragdoll-archers",
@@ -1398,8 +1396,12 @@
     "https://1games.io/trimerge",
     "https://1games.io/curve-rush-2",
     "https://1games.io/deer-adventure",
-    "https://1games.io/chiikawa-puzzle"
+    "https://1games.io/chiikawa-puzzle",
+    "https://1games.io/slope-rider",
+    "https://1games.io/labubu-clicker",
+    "https://1games.io/neon-leap",
+    "https://1games.io/meme-puzzle"
   ],
-  "totalCount": 1397,
-  "timestamp": "2025-08-19T01:52:32.426Z"
+  "totalCount": 1399,
+  "timestamp": "2025-08-27T01:47:21.854Z"
 }
