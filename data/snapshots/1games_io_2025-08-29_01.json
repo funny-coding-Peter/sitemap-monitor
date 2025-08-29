@@ -1,6 +1,6 @@
 {
   "site": "1games.io",
-  "datetime": "2025-08-21_01",
+  "datetime": "2025-08-29_01",
   "urls": [
     "https://1games.io",
     "https://1games.io/action.games",
@@ -1143,7 +1143,6 @@
     "https://1games.io/prison-punch",
     "https://1games.io/combimon",
     "https://1games.io/subway-surfers-year-of-the-snake",
-    "https://1games.io/sword-masters",
     "https://1games.io/burrito-bison",
     "https://1games.io/shortcut-race",
     "https://1games.io/zombie-survival",
@@ -1185,6 +1184,7 @@
     "https://1games.io/uphill-rush-12",
     "https://1games.io/sprunki-1996",
     "https://1games.io/deadshot-io",
+    "https://1games.io/mama-s-cookeria",
     "https://1games.io/ziggy-road",
     "https://1games.io/animal-arena",
     "https://1games.io/ragdoll-archers",
@@ -1328,7 +1328,6 @@
     "https://1games.io/american-truck-driving",
     "https://1games.io/wacky-nursery",
     "https://1games.io/merge-brainrot",
-    "https://1games.io/deltarune",
     "https://1games.io/ooo",
     "https://1games.io/side-effects",
     "https://1games.io/nsmb-mario-vs-luigi",
@@ -1396,8 +1395,14 @@
     "https://1games.io/trimerge",
     "https://1games.io/curve-rush-2",
     "https://1games.io/deer-adventure",
-    "https://1games.io/chiikawa-puzzle"
+    "https://1games.io/chiikawa-puzzle",
+    "https://1games.io/slope-rider",
+    "https://1games.io/labubu-clicker",
+    "https://1games.io/neon-leap",
+    "https://1games.io/meme-puzzle",
+    "https://1games.io/take-care-of-shadow-milk",
+    "https://1games.io/a-shedletsky-pov"
   ],
-  "totalCount": 1395,
-  "timestamp": "2025-08-21T01:48:59.723Z"
+  "totalCount": 1400,
+  "timestamp": "2025-08-29T01:46:29.470Z"
 }
